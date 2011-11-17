@@ -1,0 +1,9 @@
+inoue.pl
+Named after Inoue Marina
+Renames *.jpg to md5(*.jpg).jpg
+By Hiromi
+
+Usage:
+Place inoue.pl into directory with the .jpg files.
+
+Easily customised to allow other file types.
