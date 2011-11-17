@@ -4,6 +4,7 @@ Renames *.jpg to md5(*.jpg).jpg
 By Hiromi
 
 Usage:
-Place inoue.pl into directory with the .jpg files.
+1. Place inoue.pl into directory with the .jpg files.
+2. Execute the script with 'perl inoue.pl'
 
-Easily customised to allow other file types.
+Easily customisable to allow other file types.
