@@ -7,4 +7,4 @@ Usage:
 1. Place inoue.pl into directory with the .jpg files.
 2. Execute the script with 'perl inoue.pl'
 
-Easily customisable to allow other file types.
+Customisable to allow other file types.
