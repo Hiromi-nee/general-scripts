@@ -1,10 +1,10 @@
 inoue.pl
 Named after Inoue Marina
 Renames *.jpg to md5(*.jpg).jpg
+Added recursive directory traversal
 By Hiromi
 
 Usage:
-1. Place inoue.pl into directory with the .jpg files.
-2. Execute the script with 'perl inoue.pl'
+perl inoue.pl /path/to/top/level/directory/
 
 Customisable to allow other file types.
