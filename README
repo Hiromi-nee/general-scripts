@@ -2,7 +2,7 @@ inoue.pl
 Named after Inoue Marina
 Renames *.jpg to md5(*.jpg).jpg
 Added recursive directory traversal
-By Hiromi
+-By Hiromi
 
 Usage:
 perl inoue.pl /path/to/top/level/directory/
