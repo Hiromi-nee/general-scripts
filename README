@@ -1,10 +1,18 @@
-inoue.pl
+inoue.pl/inoue.rb
 Named after Inoue Marina
-Renames *.jpg to md5(*.jpg).jpg
+Renames (*.jpg|jpeg) to md5(*.jpg|*.jpeg).jpg
 Added recursive directory traversal
--By Hiromi
 
 Usage:
+
+inoue.pl:
 perl inoue.pl /path/to/top/level/directory/
 
-Customisable to allow other file types.
+inoue.rb
+ruby inoue.rb /path/to/top/dir/
+
+Customise to your liking.
+
+Changes:
+12032012:
+ - Rewritten in ruby.	
