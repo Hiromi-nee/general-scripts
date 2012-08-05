@@ -1,5 +1,4 @@
 inoue.pl/inoue.rb
-Named after Inoue Marina
 Renames (*.jpg|jpeg) to md5(*.jpg|*.jpeg).jpg
 Added recursive directory traversal
 
