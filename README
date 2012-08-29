@@ -4,14 +4,16 @@ Added recursive directory traversal
 
 Usage:
 
-inoue.pl:
-perl inoue.pl /path/to/top/level/directory/
-
-inoue.rb
-ruby inoue.rb /path/to/top/dir/
+inoue.pl|rb:
+perl|ruby inoue.pl|rb /path/to/top/level/directory/
 
 Customise to your liking.
 
 Changes:
 12032012:
  - Rewritten in ruby.	
+
+Do not use inoue_s.pl
+
+---
+ciscowlan.py - A helper script.
