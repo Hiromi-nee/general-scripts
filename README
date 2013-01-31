@@ -1,17 +1,13 @@
-inoue.pl/inoue.rb
+inoue.pl/inoue.rb/inoue.py
 Renames (*.jpg|jpeg) to md5(*.jpg|*.jpeg).jpg
 Added recursive directory traversal
 
 Usage:
 
-inoue.pl|rb:
+inoue.pl|rb|py:
 perl|ruby inoue.pl|rb /path/to/top/level/directory/
 
-Customise to your liking.
-
-Changes:
-12032012:
- - Rewritten in ruby.	
+Customise to your liking.	
 
 Do not use inoue_s.pl
 
